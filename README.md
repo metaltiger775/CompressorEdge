@@ -4,7 +4,7 @@
 # Compressor Edge
 
 Be on the bleeding edge with Compressor Edge. Compressor Edge includes features & fixes that are not included in Compressor. 
-
+ 
 <br>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
