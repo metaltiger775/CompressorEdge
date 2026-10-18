@@ -7,7 +7,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 
 /**
- * In-memory bridge between the background service (which does the work) and the
+ * In-memory bridge between the background service (which does the work) and the 
  * ViewModel/UI (which observes progress). It lives for the lifetime of the process.
  */
 object BackgroundCompressionManager {
